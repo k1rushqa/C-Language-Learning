@@ -1,6 +1,3 @@
-// Example program #1 from Chapter 10 of Absolute Beginner's Guide to C, 3rd Edition
-// File Chapter10ex1.c
-
 // This program increases a counter form 1 to 5, printing updates and then counts it back down to 1.
 
 #include <stdio.h>
